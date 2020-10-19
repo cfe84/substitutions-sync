@@ -1,0 +1,4 @@
+ho:hellos
+rgds:regards
+authn:authentication
+authz:authorization

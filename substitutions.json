@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "json",
+      "path": "./sub.json",
+      "isPrimarySource": true
+    },
+    {
+      "type": "mac",
+      "path": "./mac.txt"
+    }
+  ]
+}

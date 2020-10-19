@@ -5,6 +5,6 @@ namespace Filesync
 {
   public class Substitutions
   {
-    List<Substitution> List { get; set; } = new List<Substitution>();
+    public IEnumerable<Substitution> substitutions { get; set; } = new List<Substitution>();
   }
 }

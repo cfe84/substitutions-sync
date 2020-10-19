@@ -7,6 +7,7 @@ namespace Filesync
   public interface ISubstitutionProvider
   {
     Task UpdateSubstitutionsAsync(Substitutions substitutions);
+    Task<Substitutions> GetSubstitutionsAsync();
     event SubstitutionsUpdatedHandlerAsync OnSubstitutionsUpdated;
   }
 }

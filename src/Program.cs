@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace Filesync
 {
@@ -6,7 +7,9 @@ namespace Filesync
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Hello World!");
+      var app = new App("substitutions.json");
+      Console.WriteLine("Started");
+      Thread.Sleep(-1);
     }
   }
 }
