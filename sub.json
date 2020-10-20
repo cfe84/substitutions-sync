@@ -1,20 +1,140 @@
 {
   "substitutions": [
     {
-      "shortcut": "ho",
-      "word": "hellos"
+      "shortcut": "nd",
+      "word": "noticed"
     },
     {
-      "shortcut": "rgds",
-      "word": "regards"
+      "shortcut": "rtg",
+      "word": "recruiting"
+    },
+    {
+      "shortcut": "pn",
+      "word": "person"
+    },
+    {
+      "shortcut": "br",
+      "word": "Bedrock"
+    },
+    {
+      "shortcut": "ars",
+      "word": "ArtRecruitingService"
+    },
+    {
+      "shortcut": "hwvr",
+      "word": "However"
+    },
+    {
+      "shortcut": "uc",
+      "word": "use case"
+    },
+    {
+      "shortcut": "tw",
+      "word": "tomorrow"
+    },
+    {
+      "shortcut": "lmk",
+      "word": "let me know"
+    },
+    {
+      "shortcut": "rdn",
+      "word": "recommendation"
+    },
+    {
+      "shortcut": "mg",
+      "word": "meeting"
+    },
+    {
+      "shortcut": "sms",
+      "word": "system"
+    },
+    {
+      "shortcut": "rcd",
+      "word": "record"
+    },
+    {
+      "shortcut": "shd",
+      "word": "should"
+    },
+    {
+      "shortcut": "fr",
+      "word": "faster"
+    },
+    {
+      "shortcut": "bcz",
+      "word": "because"
+    },
+    {
+      "shortcut": "thru",
+      "word": "through"
+    },
+    {
+      "shortcut": "pby",
+      "word": "probably"
+    },
+    {
+      "shortcut": "pb",
+      "word": "problem"
+    },
+    {
+      "shortcut": "rqd",
+      "word": "required"
+    },
+    {
+      "shortcut": "dfc",
+      "word": "difference"
+    },
+    {
+      "shortcut": "svc",
+      "word": "service"
+    },
+    {
+      "shortcut": "ipct",
+      "word": "impact"
+    },
+    {
+      "shortcut": "authz",
+      "word": "authorization"
     },
     {
       "shortcut": "authn",
       "word": "authentication"
     },
     {
-      "shortcut": "authz",
-      "word": "authorization"
+      "shortcut": "tkg",
+      "word": "thinking"
+    },
+    {
+      "shortcut": "bwn",
+      "word": "between"
+    },
+    {
+      "shortcut": "authng",
+      "word": "authenticating"
+    },
+    {
+      "shortcut": "authzg",
+      "word": "authorizing"
+    },
+    {
+      "shortcut": "authze",
+      "word": "authorize"
+    },
+    {
+      "shortcut": "avty",
+      "word": "availability"
+    },
+    {
+      "shortcut": "mlpl",
+      "word": "multiple"
+    },
+    {
+      "shortcut": "ds",
+      "word": "datasource"
+    },
+    {
+      "shortcut": "tf",
+      "word": "therefore"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "providers": [
     {
       "type": "json",
-      "path": "./sub.json",
-      "isPrimarySource": true
+      "path": "./sub.json"
     },
     {
       "type": "mac",
-      "path": "./mac.txt"
+      "path": "./UserDictionary.db",
+      "isPrimarySource": true
     }
   ]
 }
